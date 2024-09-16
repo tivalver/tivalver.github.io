@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tivalver.github.io/sitemap.html.gz
+Sitemap: https://tivalver.github.io/app/sitemap.html.gz
+Sitemap: https://tivalver.github.io/assets/sitemap.html.gz
+Sitemap: https://tivalver.github.io/css/sitemap.html.gz
+Sitemap: https://tivalver.github.io/includes/sitemap.html.gz
+Sitemap: https://tivalver.github.io/item/sitemap.html.gz
+Sitemap: https://tivalver.github.io/src/sitemap.html.gz
